@@ -187,6 +187,25 @@ The project demonstrates:
 
 ## ✅ Project Status
 
-**Completed**
+*Completed*
+---
 
-**Developer:** Kabo Sekoto
+## Developer
+
+### Kabo Sekoto
+**🔐 Junior Cybersecurity Practitioner**
+
+> `Building → Connecting → Testing → Securing`
+
+<p align="center">
+  <a href="https://linkedin.com/in/kabosekoto">
+    <img src="https://img.shields.io/badge/🔵_LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/@IamSkottK">
+    <img src="https://img.shields.io/badge/🔴_YouTube-Clinic Call MVP%20Lab-FF0000?style=for-the-badge" />
+  </a>
+</p>
+
+
+---
