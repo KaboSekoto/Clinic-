@@ -176,7 +176,7 @@ The objective was to create a simple, practical communication tool that can be u
 
 The project demonstrates:
 
-* Client-server communication
+* Client Server communication
 * REST API implementation
 * Real time status updates
 * Local network communication
