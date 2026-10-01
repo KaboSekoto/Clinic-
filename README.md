@@ -188,7 +188,6 @@ The project demonstrates:
 ## ✅ Project Status
 
 *Completed*
----
 
 ## Developer
 
